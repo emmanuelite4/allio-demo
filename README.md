@@ -10,8 +10,6 @@ The following are what a user can do.
 * **Remove an existing task**
 * **Assign or Modify Time Box**
 
-This is what it looked like:
-
 ## Tools
 
 * Typescript
@@ -20,6 +18,8 @@ This is what it looked like:
 * @Emotion
 * ChartJS
 * Moment
+
+This is what it looked like:
 
 ![illustration](demo.png)
 
